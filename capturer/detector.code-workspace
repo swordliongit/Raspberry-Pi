@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://ssh-remote+192.168.185.115/home/swordpi/detector"
+		}
+	],
+    "remoteAuthority": "ssh-remote+192.168.185.115",
+    "settings": {}
+}

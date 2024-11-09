@@ -1,0 +1,248 @@
+[
+    {
+        "plate": "TOSUP379",
+        "confidence": 0.65478515625,
+        "timestamp": "2024-11-07 14:53:13",
+        "image_path": "detected_plates/plate_TOSUP379_20241107_145313.jpg"
+    },
+    {
+        "plate": "EIP370",
+        "confidence": 0.59521484375,
+        "timestamp": "2024-11-07 14:53:13",
+        "image_path": "detected_plates/plate_EIP370_20241107_145313.jpg"
+    },
+    {
+        "plate": "SESUE377",
+        "confidence": 0.64306640625,
+        "timestamp": "2024-11-07 14:53:14",
+        "image_path": "detected_plates/plate_SESUE377_20241107_145314.jpg"
+    },
+    {
+        "plate": "DNTLLG",
+        "confidence": 0.533203125,
+        "timestamp": "2024-11-07 14:53:16",
+        "image_path": "detected_plates/plate_DNTLLG_20241107_145316.jpg"
+    },
+    {
+        "plate": "GAKP279",
+        "confidence": 0.63427734375,
+        "timestamp": "2024-11-07 14:53:17",
+        "image_path": "detected_plates/plate_GAKP279_20241107_145317.jpg"
+    },
+    {
+        "plate": "0SIKP37",
+        "confidence": 0.64892578125,
+        "timestamp": "2024-11-07 14:53:17",
+        "image_path": "detected_plates/plate_0SIKP37_20241107_145317.jpg"
+    },
+    {
+        "plate": "W0G59LA",
+        "confidence": 0.63623046875,
+        "timestamp": "2024-11-07 14:53:18",
+        "image_path": "detected_plates/plate_W0G59LA_20241107_145318.jpg"
+    },
+    {
+        "plate": "MOSAKP97",
+        "confidence": 0.64794921875,
+        "timestamp": "2024-11-07 14:53:20",
+        "image_path": "detected_plates/plate_MOSAKP97_20241107_145320.jpg"
+    },
+    {
+        "plate": "OSEAKP",
+        "confidence": 0.7060546875,
+        "timestamp": "2024-11-07 14:53:20",
+        "image_path": "detected_plates/plate_OSEAKP_20241107_145320.jpg"
+    },
+    {
+        "plate": "LSAKB379",
+        "confidence": 0.65576171875,
+        "timestamp": "2024-11-07 14:53:21",
+        "image_path": "detected_plates/plate_LSAKB379_20241107_145321.jpg"
+    },
+    {
+        "plate": "OEUP37P",
+        "confidence": 0.6162109375,
+        "timestamp": "2024-11-07 14:53:22",
+        "image_path": "detected_plates/plate_OEUP37P_20241107_145322.jpg"
+    },
+    {
+        "plate": "TSWEATP",
+        "confidence": 0.51953125,
+        "timestamp": "2024-11-07 14:53:24",
+        "image_path": "detected_plates/plate_TSWEATP_20241107_145324.jpg"
+    },
+    {
+        "plate": "PVEY7",
+        "confidence": 0.54345703125,
+        "timestamp": "2024-11-07 14:53:24",
+        "image_path": "detected_plates/plate_PVEY7_20241107_145324.jpg"
+    },
+    {
+        "plate": "2ESTSLBO",
+        "confidence": 0.5634765625,
+        "timestamp": "2024-11-07 14:53:25",
+        "image_path": "detected_plates/plate_2ESTSLBO_20241107_145325.jpg"
+    },
+    {
+        "plate": "FADISOT",
+        "confidence": 0.6005859375,
+        "timestamp": "2024-11-07 14:53:26",
+        "image_path": "detected_plates/plate_FADISOT_20241107_145326.jpg"
+    },
+    {
+        "plate": "SIK975",
+        "confidence": 0.5849609375,
+        "timestamp": "2024-11-07 14:53:28",
+        "image_path": "detected_plates/plate_SIK975_20241107_145328.jpg"
+    },
+    {
+        "plate": "AQMOG",
+        "confidence": 0.5869140625,
+        "timestamp": "2024-11-07 14:53:29",
+        "image_path": "detected_plates/plate_AQMOG_20241107_145329.jpg"
+    },
+    {
+        "plate": "GO8APF79",
+        "confidence": 0.63916015625,
+        "timestamp": "2024-11-07 14:53:29",
+        "image_path": "detected_plates/plate_GO8APF79_20241107_145329.jpg"
+    },
+    {
+        "plate": "0MTOEP",
+        "confidence": 0.5869140625,
+        "timestamp": "2024-11-07 14:53:31",
+        "image_path": "detected_plates/plate_0MTOEP_20241107_145331.jpg"
+    },
+    {
+        "plate": "SAK27",
+        "confidence": 0.6171875,
+        "timestamp": "2024-11-07 14:53:32",
+        "image_path": "detected_plates/plate_SAK27_20241107_145332.jpg"
+    },
+    {
+        "plate": "BIK37",
+        "confidence": 0.5546875,
+        "timestamp": "2024-11-07 14:53:33",
+        "image_path": "detected_plates/plate_BIK37_20241107_145333.jpg"
+    },
+    {
+        "plate": "0GAKP377",
+        "confidence": 0.59521484375,
+        "timestamp": "2024-11-07 14:57:08",
+        "image_path": "detected_plates/plate_0GAKP377_20241107_145708.jpg"
+    },
+    {
+        "plate": "HO5AKP377",
+        "confidence": 0.5537109375,
+        "timestamp": "2024-11-07 14:57:09",
+        "image_path": "detected_plates/plate_HO5AKP377_20241107_145709.jpg"
+    },
+    {
+        "plate": "06AKP977",
+        "confidence": 0.58203125,
+        "timestamp": "2024-11-07 14:57:10",
+        "image_path": "detected_plates/plate_06AKP977_20241107_145710.jpg"
+    },
+    {
+        "plate": "H06AKP377",
+        "confidence": 0.6748046875,
+        "timestamp": "2024-11-07 14:57:16",
+        "image_path": "detected_plates/plate_H06AKP377_20241107_145716.jpg"
+    },
+    {
+        "plate": "W06AKP377",
+        "confidence": 0.64892578125,
+        "timestamp": "2024-11-07 14:57:19",
+        "image_path": "detected_plates/plate_W06AKP377_20241107_145719.jpg"
+    },
+    {
+        "plate": "0KP37",
+        "confidence": 0.59130859375,
+        "timestamp": "2024-11-07 14:57:25",
+        "image_path": "detected_plates/plate_0KP37_20241107_145725.jpg"
+    },
+    {
+        "plate": "HOP777",
+        "confidence": 0.681640625,
+        "timestamp": "2024-11-07 14:57:35",
+        "image_path": "detected_plates/plate_HOP777_20241107_145735.jpg"
+    },
+    {
+        "plate": "B0SKP377",
+        "confidence": 0.63525390625,
+        "timestamp": "2024-11-07 14:57:38",
+        "image_path": "detected_plates/plate_B0SKP377_20241107_145738.jpg"
+    },
+    {
+        "plate": "OKP37",
+        "confidence": 0.6552734375,
+        "timestamp": "2024-11-07 14:57:40",
+        "image_path": "detected_plates/plate_OKP37_20241107_145740.jpg"
+    },
+    {
+        "plate": "06AKP377",
+        "confidence": 0.68701171875,
+        "timestamp": "2024-11-07 14:57:41",
+        "image_path": "detected_plates/plate_06AKP377_20241107_145741.jpg"
+    },
+    {
+        "plate": "H06AKP377",
+        "confidence": 0.65478515625,
+        "timestamp": "2024-11-07 14:57:44",
+        "image_path": "detected_plates/plate_H06AKP377_20241107_145744.jpg"
+    },
+    {
+        "plate": "LSO8AKB7",
+        "confidence": 0.568359375,
+        "timestamp": "2024-11-07 15:13:05",
+        "image_path": "detected_plates/plate_LSO8AKB7_20241107_151305.jpg"
+    },
+    {
+        "plate": "TSLTI",
+        "confidence": 0.61328125,
+        "timestamp": "2024-11-07 15:13:06",
+        "image_path": "detected_plates/plate_TSLTI_20241107_151306.jpg"
+    },
+    {
+        "plate": "SSWARE",
+        "confidence": 0.58447265625,
+        "timestamp": "2024-11-07 15:13:15",
+        "image_path": "detected_plates/plate_SSWARE_20241107_151315.jpg"
+    },
+    {
+        "plate": "TS3AE",
+        "confidence": 0.51318359375,
+        "timestamp": "2024-11-07 15:19:37",
+        "image_path": "detected_plates/plate_TS3AE_20241107_151937.jpg"
+    },
+    {
+        "plate": "ROSAKP37",
+        "confidence": 0.5703125,
+        "timestamp": "2024-11-07 15:20:22",
+        "image_path": "detected_plates/plate_ROSAKP37_20241107_152022.jpg"
+    },
+    {
+        "plate": "RUSP399",
+        "confidence": 0.6083984375,
+        "timestamp": "2024-11-07 15:20:23",
+        "image_path": "detected_plates/plate_RUSP399_20241107_152023.jpg"
+    },
+    {
+        "plate": "4SAKPF5",
+        "confidence": 0.5986328125,
+        "timestamp": "2024-11-07 15:20:32",
+        "image_path": "detected_plates/plate_4SAKPF5_20241107_152032.jpg"
+    },
+    {
+        "plate": "ESSKP",
+        "confidence": 0.60302734375,
+        "timestamp": "2024-11-07 15:20:34",
+        "image_path": "detected_plates/plate_ESSKP_20241107_152034.jpg"
+    },
+    {
+        "plate": "SO908355",
+        "confidence": 0.5078125,
+        "timestamp": "2024-11-07 15:20:37",
+        "image_path": "detected_plates/plate_SO908355_20241107_152037.jpg"
+    }
+]

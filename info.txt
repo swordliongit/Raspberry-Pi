@@ -1,0 +1,41 @@
+Start programs on startup:
+
+# Create a new systemd service file
+sudo nano /etc/systemd/system/camera-script.service
+
+# Add the following content to the service file:
+[Unit]
+Description=Camera Python Script Service
+After=multi-user.target
+
+[Service]
+Environment=DISPLAY=:0
+Environment=XAUTHORITY=/home/pi/.Xauthority
+User=pi
+Group=pi
+WorkingDirectory=/home/pi/Desktop/yolo_object_detection
+ExecStart=/home/pi/yolo_object/bin/python3 /home/pi/Desktop/yolo_object_detection/detector.py
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target
+
+# Save and exit the editor, then run these commands:
+sudo chmod 644 /etc/systemd/system/camera-script.service
+sudo systemctl daemon-reload
+sudo systemctl enable camera-script.service
+sudo systemctl start camera-script.service
+
+# To check the status of your service:
+sudo systemctl status camera-script.service
+
+# To view the logs if there are any issues:
+journalctl -u camera-script.service -f
+
+
+
+
+
+--------------------
+
